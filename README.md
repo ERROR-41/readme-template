@@ -90,7 +90,7 @@ title="profile image 😊">
 ## table systex 
 | Name |Email|
 |------|------|
-|MD.omar| text is here|
+|MD.omar| omarsadek01@gmail.com|
 |md.omar|mdoamrsadek41@gmail.com|
 
 
